@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+//--------------Colors--------------------
+:root {
+    --Violet--700: #8000ff;
+    --Violet--600: #8c14ff;
+    --Violet--500: #943bff;
+    --Violet--400: #ab73ff;
+    --Violet--300: #c5a6ff;
+    --Violet--200: #ddcdff;
+}
+
+.bg-Violet-700{
+    background-color: var(--Violet--700) !important;
+}
+.bg-Violet-600{
+    background-color: var(--Violet--600) !important;
+}
+.bg-Violet-500{
+    background-color: var(--Violet--500) !important;
+}
+.bg-Violet-400{
+    background-color: var(--Violet--400) !important;
+}
+.bg-Violet-300{
+    background-color: var(--Violet--300) !important;
+}.bg-Violet-200{
+    background-color: var(--Violet--200) !important;
+}
+//--------------Fonts--------------------
+.font-poppins{
+    font-family: "Poppins", serif !important;
+}
+::-webkit-scrollbar{
+    display: none;
+}
