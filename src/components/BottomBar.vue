@@ -14,10 +14,11 @@
             </RouterLink>
         </li>
         <li>
-            <a href="" class="d-grid align-items-center text-light text-decoration-none py-2">
+            
+            <RouterLink to="/About" class="d-grid align-items-center text-light text-decoration-none py-2">
             <i class="bi bi-microsoft text-center fs-4"></i>
             <p class="m-0">About</p>
-            </a>
+            </RouterLink>
         </li>
         <li>
             <a href="" class="d-grid align-items-center text-light text-decoration-none py-2">
@@ -26,10 +27,10 @@
             </a>
         </li>
         <li>
-            <a href="" class="d-grid align-items-center text-light text-decoration-none py-2">
+            <RouterLink to="/Profile" class="d-grid align-items-center text-light text-decoration-none py-2">
             <i class="bi bi-person-circle text-center fs-4"></i>
             <p class="m-0">Profile</p>
-            </a>
+            </RouterLink>
         </li>
         </ul>
 

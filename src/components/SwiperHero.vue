@@ -14,7 +14,7 @@
       class="mySwiper"
     >
       <swiper-slide class="col-12 rounded-3 overflow-hidden">
-      <div style="height: 70vh" class="bg-danger">
+      <div style="height: 70vh">
       <div class="position-absolute z-3 text-light top-50 start-50 translate-middle text-center">
       <h1 class="text-uppercase">The biggest sale</h1>
       <p class="fs-50">Specail for today</p>
@@ -24,7 +24,7 @@
       </div>
       </swiper-slide>
       <swiper-slide class="col-12 rounded-3 overflow-hidden">
-      <div style="height: 70vh" class="bg-danger">
+      <div style="height: 70vh">
       <div class="position-absolute z-3 text-light top-50 start-50 translate-middle text-center">
       <h1 class="text-uppercase">The Camera 50% off</h1>
       <p class="fs-50">Specail for today</p>
@@ -34,7 +34,7 @@
       </div>
       </swiper-slide>
       <swiper-slide class="col-12 rounded-3 overflow-hidden">
-      <div style="height: 70vh" class="bg-danger">
+      <div style="height: 70vh">
       <div class="position-absolute z-3 text-light top-50 start-50 translate-middle text-center">
       <h1 class="text-uppercase">The Sport Shop</h1>
       <p class="fs-50">Black friday</p>

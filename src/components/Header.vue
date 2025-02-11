@@ -41,7 +41,7 @@
         <div class="d-none d-lg-flex justify-content-center container-fluid text-center shadow py-2">
             <RouterLink to="/" class="m-0 nav-link px-2 text-uppercase">Home</RouterLink>
             <RouterLink to="/product" class="m-0 nav-link px-2 text-uppercase">All-Product</RouterLink>
-            <a href="" class="m-0 nav-link px-2 text-uppercase">About</a>
+            <RouterLink to="/about" class="m-0 nav-link px-2 text-uppercase">About</RouterLink>
         </div>
     </div>
 </template>
